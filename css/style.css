@@ -22,3 +22,10 @@ a{
     width: 200px;
     text-decoration: none;
 }
+
+/* hero style */
+
+.img-fluid{
+    width: 1280px;
+    height: 835px;
+}
